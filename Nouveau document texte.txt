@@ -1,0 +1,33 @@
+3P
+ELECTEUR: 300
+VF: 5
+VM: 25
+VATO MIADY: 270
+win: 150
+p: 80
+p:40
+
+************
+
+ELECTEUR: 100
+VF: 20
+VM: 20
+VATO MIADY: 60
+
+p: 30
+p: 30
+
+*************
+4P
+ELECTEUR: 500
+VF: 25
+VM: 30
+VATO MIADY: 445
+win: 225
+p: 143
+p: 53
+p: 23
+
+
+
+

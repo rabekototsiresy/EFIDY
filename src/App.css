@@ -1,0 +1,31 @@
+:root{
+  --mena: red;
+  --mainsto: green;
+}
+body,div{
+  text-align: center;
+}
+
+#main{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+.container{
+  display: flex;
+  border: 2px solid black;
+  flex-direction: row;
+}
+.container div{
+  flex-grow: 1;
+}
+.container div:nth-child(1){
+background: var(--mena);
+color: white;
+}
+
+.container div:nth-child(2){
+  background-color: green
+}
